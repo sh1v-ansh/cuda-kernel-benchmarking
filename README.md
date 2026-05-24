@@ -1,6 +1,6 @@
 # Benchmarking CUDA Kernels
 
-In this mini-project I used Nvidia's Nsight Compute to profile 5 fundamental CUDA kernels on an RTX 4070S:
+In this mini-project I used Nvidia's Nsight Compute to write and profile 5 fundamental CUDA kernels on an RTX 4070S:
 
 1) Vector add
 2) Naive matmul
